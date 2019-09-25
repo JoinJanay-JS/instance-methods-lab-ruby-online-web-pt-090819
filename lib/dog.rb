@@ -1,4 +1,6 @@
 class Dog 
-  puts "Woof!"
 end
 
+fido = Dog.new 
+bark = Dog.methods
+sit = Dog.methods
