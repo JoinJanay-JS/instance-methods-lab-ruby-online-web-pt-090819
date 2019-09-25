@@ -11,5 +11,5 @@ class Person
 end
 
 ada = Person.new
-Person.talk
-Person.walk
+ada.talk
+ada.walk
