@@ -10,4 +10,6 @@ class Person
   end
 end
 
- = Person.new
+ada = Person.new
+Person.talk
+Person.walk
